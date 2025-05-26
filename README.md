@@ -1,3 +1,3 @@
 My primary background is in mathematics and research, with an emphasis on transitioning from research prototype to tested, deployable product. My role is to be the best mathematician on a team of programmers, and the best programmer on a team of mathematicians, allowing a seamless transition between ideation and implementation. Or so I would like to say; in truth, it's been a lot of wrangling data scientists and untangling Jupyter notebooks into usable microservices.
 
-Currently, I'm looking to move fully out of research and into the tech industry, preferably in a backend role, ideally in working in Go or Python.
+Currently, I'm looking to move fully out of research and into the tech industry, preferably in a backend role, ideally working in Go or Python.
